@@ -10,7 +10,12 @@ int main() {
     auto even = [](int i) { return i % 2 == 0; };
     auto square = [](int i) { return i * i; };
 
-    for (int i : vec | std::views::filter(even) | std::views::transform(square)) {
+    auto result = vec
+                    | std::views::filter(even)
+                    | std::views::transform(square))
+                    | std::views::take(5);
+
+    for (int i : result) {
         std::cout << i << " ";
     }
 
