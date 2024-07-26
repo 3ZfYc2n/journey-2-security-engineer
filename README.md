@@ -16,4 +16,7 @@ This is my professional journey from software/engineer to security engineer.
   -https://alice.climent-pommeret.red/
 #### Decentralized smart social network & Blockchain Security
 #### Amazon Shield
+### day-3
+#### Kevin Mitnick
+  -https://www.mitnicksecurity.com/about-kevin-mitnick-mitnick-security#:~:text=Kevin%20Mitnick%3A%20The%20World's%20Most%20Famous%20Hacker
   
