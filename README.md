@@ -20,4 +20,4 @@ This is my professional journey from software/engineer to security engineer.
 #### Kevin Mitnick
   -https://www.mitnicksecurity.com/about-kevin-mitnick-mitnick-security#:~:text=Kevin%20Mitnick%3A%20The%20World's%20Most%20Famous%20Hacker
   -watch all videos from https://www.mitnicksecurity.com/virtual-events-webinars-videos
-  
+  -start *Windows Kernel Programming.pdf*
